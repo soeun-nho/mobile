@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyParkApplication</string>
+    <string name="seoul_api_url">http://openAPI.seoul.go.kr:8088/</string>
+    <string name="api_key">756f435353736f6538334f78616348</string>
+</resources>
